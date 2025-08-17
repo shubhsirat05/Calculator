@@ -3,9 +3,7 @@
 A responsive and interactive calculator application built using HTML, CSS, and JavaScript.
 Deployed with GitHub Pages for live access.
 
-🚀 Live Demo
-
-👉 View Live Here
+🚀 Live Demo(https://shubhsirat05.github.io/Calculator/)
 
 ✨ Features
 
